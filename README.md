@@ -51,6 +51,27 @@
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
+
+<div align="center">
+ <a><img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" height="50"/></a>
+ <a><img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" height="50"/></a>
+ <a><img alt="python" src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="50"/></a>
+ <a><img alt="c++" src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" height="50"/></a>
+ <a><img alt="nodedotjs" src="https://img.shields.io/badge/node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" height="50"/></a>
+ <a><img alt="postgresql" src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="50"/></a>
+ <a><img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="50"/></a>
+ <a><img alt="react" src="https://img.shields.io/badge/react-2C3454.svg?style=for-the-badge&logo=react&logoColor=#61DAFB" height="50"/></a>
+ <a><img alt="nextdotjs" src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=#61DAFB" height="50"/></a>
+ <a><img alt="django" src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=#61DAFB" height="50"/></a>
+ <a><img alt="nextui" src="https://img.shields.io/badge/next%20ui-000000.svg?style=for-the-badge&logo=nextui&logoColor=#61DAFB" height="50"/></a>
+ <a><img alt="tailwindcss" src="https://img.shields.io/badge/tailwind%20css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=#61DAFB" height="50"/></a>
+ <a><img alt="nestjs" src="https://img.shields.io/badge/nest.js-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=#61DAFB" height="50"/></a>
+ <a><img alt="express" src="https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=#61DAFB" height="50"/></a>
+ <a><img alt="typeorm" src="https://img.shields.io/badge/typeorm-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=#61DAFB" height="50"/></a>
+ <a><img alt="prisma" src="https://img.shields.io/badge/prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=#61DAFB" height="50"/></a>
+ <a><img alt="postman" src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" height="50"/></a>
+</div>
+
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
