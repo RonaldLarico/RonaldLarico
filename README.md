@@ -1,4 +1,4 @@
-<h3 align="center"><samp>Hi 👋, I'm Ronal dLarico</samp></h3>
+<h3 align="center"><samp>Hi 👋, I'm Ronald Larico</samp></h3>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="1000">
 <h3 align="center"><samp>A passionate Programmer</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> !!!</h3>
 <p align="center"><samp>I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</samp></p>
@@ -35,19 +35,19 @@
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <samp>
  
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+- 🔭 I’m currently working as a **FREELANCER**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **DEVOPS**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my projects are available at [Github workspace](https://github.com/RonaldLarico)
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **Typescript, Javascript, Python and NodeJS**
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+- 📫 How to reach me **ronevanz01@gmail.com**
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📄 Know about my experiences [my experiences](https://github.com/RonaldLarico)
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **Passion for programming**
 </samp>
 </br>
 
@@ -111,7 +111,8 @@ Typerscript                                   3 hrs 41 mins                     
 Python                                        27 mins                                        ████████████░░░░░░░░░░░░░   45.69 % 
 Other                                         19 mins                                        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 
-💻 Operating System: 
+💻 Operating System:
+
 Linux                                         5 hrs 57 mins                                  █████████████░░░░░░░░░░░░   50.00 %
 ```
 <!--
@@ -137,30 +138,38 @@ Linux                                         5 hrs 57 mins                     
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="1000">
 <!--## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via-->
 <p align="center">
-  <a href="mailto:tien.huynhlt.tn@gmail.com" >
-    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <a href="ronevanz01@gmail.com" >
+    <img align="center" alt="RonDev | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/tienhuynh-tn/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <a href="https://www.linkedin.com/in/ronald-larico-29a94024b/" target="_blank">
+    <img align="center" alt="RonDev | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.facebook.com/tienhuynh.tn/" target="_blank">
-      <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  <a href="https://www.facebook.com/sshipper.stone/" target="_blank">
+      <img align="center" alt="RonDev | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.instagram.com/_huynh.tien.5536_/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  <a href="https://www.instagram.com/roon_dev/" target="_blank">
+    <img align="center" alt="RonDev | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <a href="https://github.com/RonaldLarico/" target="_blank">
+    <img align="center" alt="RonDev | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+  <a href="https://api.whatsapp.com/send?phone=+51991303509" target="_blank">
+    <img align="center" alt="RonDev | WhatsApp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/240px-WhatsApp.svg.png" />
+  </a> &nbsp;&nbsp;
+  <a href="https://api.whatsapp.com/send?phone=+51991303509" target="_blank">
+    <img align="center" alt="RonDev | Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />
   </a> &nbsp;&nbsp;
 <p> 
 
 <div align="center">
+ <samp>
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2021 Tien Huynh tienhuynh-tn
+  &copy; 2025 RonDev
+ </samp>
 </div>
 
 <!--
