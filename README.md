@@ -54,50 +54,50 @@
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"><samp>Some Languages and Tools</samp></h3>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="1000">
 <div align="center">
- <a><img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" height="35"/></a>
- <a><img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" height="35"/></a>
- <a><img alt="python" src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="35"/></a>
- <a><img alt="c++" src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" height="35"/></a>
- <a><img alt="nodedotjs" src="https://img.shields.io/badge/node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" height="35"/></a>
+ <a><img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25"/></a>
+ <a><img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" height="25"/></a>
+ <a><img alt="python" src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="25"/></a>
+ <a><img alt="c++" src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" height="25"/></a>
+ <a><img alt="nodedotjs" src="https://img.shields.io/badge/node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/></a>
 </div>
 </br>
 <div align="center">
- <a><img alt="postgresql" src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="35"/></a>
- <a><img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="35"/></a>
- <a><img alt="mongodb" src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="35"/></a>
+ <a><img alt="postgresql" src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/></a>
+ <a><img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25"/></a>
+ <a><img alt="mongodb" src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/></a>
 </div>
 </br>
 <div align="center">
- <a><img alt="react" src="https://img.shields.io/badge/react-2C3454.svg?style=for-the-badge&logo=react&logoColor=#61DAFB" height="35"/></a>
- <a><img alt="nextdotjs" src="https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" height="35"/></a>
- <a><img alt="django" src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="35"/></a>
- <a><img alt="flask" src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" height="35"/></a>
- <a><img alt="tailwindcss" src="https://img.shields.io/badge/tailwind%20css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" height="35"/></a>
- <a><img alt="nextui" src="https://img.shields.io/badge/next%20ui-000000.svg?style=for-the-badge&logo=nextui&logoColor=white" height="35"/></a>
- <a><img alt="shadcnui" src="https://img.shields.io/badge/shadcn%20ui-000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white" height="35"/></a>
+ <a><img alt="react" src="https://img.shields.io/badge/react-2C3454.svg?style=for-the-badge&logo=react&logoColor=#61DAFB" height="25"/></a>
+ <a><img alt="nextdotjs" src="https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25"/></a>
+ <a><img alt="django" src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="25"/></a>
+ <a><img alt="flask" src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" height="25"/></a>
+ <a><img alt="tailwindcss" src="https://img.shields.io/badge/tailwind%20css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" height="25"/></a>
+ <a><img alt="nextui" src="https://img.shields.io/badge/next%20ui-000000.svg?style=for-the-badge&logo=nextui&logoColor=white" height="25"/></a>
+ <a><img alt="shadcnui" src="https://img.shields.io/badge/shadcn%20ui-000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white" height="25"/></a>
 </div>
 </br>
 <div align="center">
- <a><img alt="nestjs" src="https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" height="35"/></a>
- <a><img alt="express" src="https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" height="35"/></a>
- <a><img alt="typeorm" src="https://img.shields.io/badge/typeorm-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white" height="35"/></a>
- <a><img alt="prisma" src="https://img.shields.io/badge/prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" height="35"/></a>
- <a><img alt="redis" src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=white" height="35"/></a>
- <a><img alt="postman" src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" height="35"/></a>
- <a><img alt="dbeaver" src="https://img.shields.io/badge/dbeaver-382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white" height="35"/></a>
+ <a><img alt="nestjs" src="https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" height="25"/></a>
+ <a><img alt="express" src="https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" height="25"/></a>
+ <a><img alt="typeorm" src="https://img.shields.io/badge/typeorm-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white" height="25"/></a>
+ <a><img alt="prisma" src="https://img.shields.io/badge/prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" height="25"/></a>
+ <a><img alt="redis" src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=white" height="25"/></a>
+ <a><img alt="postman" src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" height="25"/></a>
+ <a><img alt="dbeaver" src="https://img.shields.io/badge/dbeaver-382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white" height="25"/></a>
 </div>
 </br>
 <div align="center">
- <a><img alt="docker" src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="35"/></a>
- <a><img alt="linux" src="https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white" height="35"/></a>
- <a><img alt="nginx" src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="35"/></a>
- <a><img alt="digitalocean" src="https://img.shields.io/badge/digital%20ocean-0080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white" height="35"/></a>
+ <a><img alt="docker" src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="25"/></a>
+ <a><img alt="linux" src="https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white" height="25"/></a>
+ <a><img alt="nginx" src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="25"/></a>
+ <a><img alt="digitalocean" src="https://img.shields.io/badge/digital%20ocean-0080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white" height="25"/></a>
 </div>
 </br>
 <div align="center">
- <a><img alt="github" src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" height="35"/></a>
- <a><img alt="gitlab" src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" height="35"/></a>
- <a><img alt="githubactions" src="https://img.shields.io/badge/github%20actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="35"/></a>
+ <a><img alt="github" src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" height="25"/></a>
+ <a><img alt="gitlab" src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" height="25"/></a>
+ <a><img alt="githubactions" src="https://img.shields.io/badge/github%20actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="25"/></a>
 </div>
 
 <h3><img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px"><samp>About Some Stats</samp></h3>
@@ -106,14 +106,14 @@
 ```text
 💬 Programming Languages:
 
-JavaScript                                    1 hr 6 mins                                    ██████████░░░░░░░░░░░░░░░   38.62 % 
-Typerscript                                   3 hrs 41 mins                                  ████████████████░░░░░░░░░   62.08 % 
-Python                                        27 mins                                        ████████████░░░░░░░░░░░░░   45.69 % 
-Other                                         19 mins                                        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+JavaScript                                  1 hr 6 mins                                   ██████████░░░░░░░░░░░░░░░   38.62 % 
+Typerscript                                 3 hrs 41 mins                                 ████████████████░░░░░░░░░   62.08 % 
+Python                                      27 mins                                       ████████████░░░░░░░░░░░░░   45.69 % 
+Other                                       19 mins                                       █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 
 💻 Operating System:
 
-Linux                                         5 hrs 57 mins                                  █████████████░░░░░░░░░░░░   50.00 %
+Linux                                       5 hrs 57 mins                                 █████████████░░░░░░░░░░░░   50.00 %
 ```
 <!--
 <table>
